@@ -36,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
