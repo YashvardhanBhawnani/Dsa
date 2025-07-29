@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/YashvardhanBhawnani/Dsa/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/YashvardhanBhawnani/Dsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/YashvardhanBhawnani/Dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
