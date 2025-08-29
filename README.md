@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/YashvardhanBhawnani/Dsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0048-rotate-image) |
+| [2481-strictly-palindromic-number](https://github.com/YashvardhanBhawnani/Dsa/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YashvardhanBhawnani/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2481-strictly-palindromic-number](https://github.com/YashvardhanBhawnani/Dsa/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/YashvardhanBhawnani/Dsa/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
